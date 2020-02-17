@@ -1,4 +1,5 @@
 import operator
+import re
 from django.http import HttpResponse
 from django.shortcuts import render
 
@@ -25,3 +26,7 @@ def count_words(fulltext):
 			word_freq[x] = 1 		
 	count = len(text_list)
 	return (count, word_freq)
+
+def remove_symbols(fulltext):
+	# TODO remove symbols from text
+	pass
