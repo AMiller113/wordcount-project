@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"products"
+			],
+			[
+				"pr",
+				"product_update_view"
+			],
+			[
+				"produ",
+				"product_list_view"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"De",
+				"description"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"title",
+				"new_title"
+			],
+			[
+				"Product",
+				"ProductForm"
+			],
+			[
+				"product",
+				"product_detail_view"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"co",
+				"contact_view"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/A.Miller/Dev/WordCounter/wordcount-project/WordCount/urls.py",
+		"/C/Users/A.Miller/Dev/WordCounter/wordcount-project/WordCount/views.py",
+		"/C/Users/A.Miller/Dev/WordCounter/wordcount-project/templates/home.html",
+		"/C/Users/A.Miller/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/A.Miller/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/A.Miller/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/views.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/urls.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/tryDjango/urls.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/models.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/forms.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/templates/articles/article_list.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/templates/article_list.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/templates/article_detail.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/Blog/admin.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/tryDjango/settings.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/forms.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/urls.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/pages/views.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/models.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/views.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/templates/products/product_detail.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/templates/base.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/templates/products/product_create.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/templates/products/product_delete.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/templates/products/product_list.html",
+		"/C/Users/A.Miller/Dev/tryDjango/Lib/site-packages/django/contrib/admin/static/admin/css/forms.css",
+		"/C/Users/A.Miller/Dev/tryDjango/src/templates/products/detail.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/templates/navbar.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/templates/home.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/templates/contact.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/templates/about.html",
+		"/C/Users/A.Miller/Dev/tryDjango/src/products/admin.py",
+		"/C/Users/A.Miller/Dev/tryDjango/src/manage.py",
+		"/C/Users/A.Miller/Dev/tryDjango/Lib/ntpath.py",
+		"/C/Users/A.Miller/Dev/tryDjango/Lib/site-packages/django/shortcuts.py"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wordcount-sublime.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,14 @@
+<h2>
+	<a href="{% url 'home' %}"> New Text Analysis</a>
+</h2>
+
+<h1>Your text:</h1>
+{{ fulltext }}
+
+<h1>Word Count: {{count}}</h1>
+
+<h1>Word Distrubition:</h1>
+{% for word, count_total in word_dist %}
+{{ word }} - {{ count_total }}
+<br />
+{% endfor %}
